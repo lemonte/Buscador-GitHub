@@ -19,7 +19,6 @@ Você pode acompanhar os erros no console.
 Para gerar um build de uma versão basta executar o comando yarn build e será compilado um projeto na pasta build.\
 O projeto depois de gerado para produção tende a apresentar uma melhor performance e velocidade.
 
-# O projeto
 
 ## Técnologias usadas
 
